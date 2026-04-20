@@ -3,7 +3,7 @@
 An end-to-end Excel analytics project built on a 9,648-row Adidas US sales dataset
 covering FY 2020–2021 across 10 retailers, 8 products, and 5 regions.
 
-![Dashboard Preview](dashboard_preview.png)
+
 
 ---
 
@@ -60,16 +60,4 @@ covering FY 2020–2021 across 10 retailers, 8 products, and 5 regions.
 
 ---
 
-## Tools
 
-- Microsoft Excel — formulas, conditional formatting, charts, named tables
-- Python with openpyxl and pandas — dataset generation and workbook build
-
----
-
-## Files
-
-| File | Description |
-|---|---|
-| Adidas_Sales_Dashboard.xlsx | Main workbook |
-| dashboard_preview.png | Screenshot of the Executive Dashboard tab |
